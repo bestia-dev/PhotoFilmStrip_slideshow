@@ -1,0 +1,73 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeForeground": "#fff",
+        "titleBar.inactiveForeground": "#ffffffcc",
+        "titleBar.activeBackground": "#477587",
+        "titleBar.inactiveBackground": "#3F758DCC"
+      },
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "files.associations": {
+        "LICENSE": "plain text"
+    },
+    "rust-analyzer.showUnlinkedFileNotification": false,
+    "cSpell.words": [
+        "Alla",
+        "alloc",
+        "apos",
+        "auto",
+        "bestia",
+        "bestiadev",
+        "bindgen",
+        "buildtool",
+        "cdylib",
+        "cmake",
+        "crev",
+        "CRUSTDE",
+        "debuginfo",
+        "deps",
+        "developmenttool",
+        "endregion",
+        "ffmpeg",
+        "filetime",
+        "imageops",
+        "Lanczos",
+        "Nazdravlje",
+        "new_cli",
+        "noopener",
+        "noscript",
+        "onchange",
+        "onclick",
+        "passphrases",
+        "paypal",
+        "pfs",
+        "photofilmstrip",
+        "plantuml",
+        "println",
+        "Prost",
+        "rustdevuser",
+        "rustfmt",
+        "rustlang",
+        "rustprojects",
+        "serde",
+        "Shotcut",
+        "srt",
+        "struct",
+        "stylesheet",
+        "subcommand",
+        "substack",
+        "thiserror",
+        "unoptimized",
+        "webassembly",
+        "wooow",
+        "xtask",
+        "zcvf",
+        "zdravje"
+    ]
+}
