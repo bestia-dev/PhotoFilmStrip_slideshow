@@ -31,7 +31,7 @@ I prefer to have the subtitles embedded in the video, so every video player will
 I use `ffmpeg` in Debian to do that.
 
 ```bash
-ffmpeg -i MexicoCity.mkv -vf subtitles=MexicoCity.srt:force_style='FontSize=32' MexicoCity_srt.mp4
+ffmpeg -i "MexicoCity.mkv" -vf subtitles="MexicoCity.srt:force_style='FontSize=32'" "MexicoCity_srt.mp4"
 ```
 
 To install `ffmpeg`:
