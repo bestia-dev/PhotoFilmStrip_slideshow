@@ -9,7 +9,7 @@
 
 [//]: # (auto_cargo_toml_to_md end)
 
- ![work_in_progress](https://img.shields.io/badge/work_in_progress-yellow)
+ ![pre_alpha](https://img.shields.io/badge/pre_alpha-red)
 
  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/PhotoFilmStrip_slideshow/blob/master/LICENSE)
  ![PhotoFilmStrip_slideshow](https://bestia.dev/webpage_hit_counter/get_svg_image/275848160.svg)
